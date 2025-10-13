@@ -17,7 +17,7 @@ export default function About(){
 
       </ul>
 
-      <p>Contact: <a href="mailto:sonaliramchandra07@gmail.com">sonaliramchandra07@gmail.com</a></p>
+      <p>Contact: <a href="mailto:darshangowda4618@gmail.com">darshangowda4618@gmail.com</a></p>
     </div>
   )
 }
