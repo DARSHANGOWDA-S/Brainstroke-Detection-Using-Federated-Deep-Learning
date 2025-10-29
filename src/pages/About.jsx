@@ -8,11 +8,11 @@ export default function About(){
       <h4>Team</h4>
       <ul>
         <h4>Research lead:</h4>
-        <h3>Sonali R </h3>
+        <h3>Darshan S</h3>
         <h4>Contributors:</h4>
         
-        <li>Dhanalakshmi</li>
-        <li>Harshitha</li>
+        <li>Add your another friend here open the about jsx file</li>
+        <li>Add your another friend here open the about jsx file</li>
         <li>Add your another friend here open the about jsx file</li>
 
       </ul>
